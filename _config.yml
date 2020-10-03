@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 #http://lanyon.getpoole.com
+title:               Moustafa Sebaa
+tagline:             'PhD Candidate'
+description:         'Eager to adress challenges related to granular & porous media using numerical and experimental techniques. Check <a href="https://msebaa.github.io/" target="_blank">this</a>.'
+url:                 https://msebaa.github.io #http://lanyon.getpoole.com
 baseurl:             '/sebaam'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Moustafa Sebaa
+  url:               https://twitter.com/MustaSebaa
+  email:             sebaamoustafa@gmail.com
 
 # Gems
 plugins:
